@@ -1,2 +1,4 @@
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-modernist
+title: BayLearn - Machine Learning Symposium, San Francisco Bay Area
+
