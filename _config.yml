@@ -1,4 +1,5 @@
 markdown: kramdown
-theme: jekyll-theme-slate
 title: BayLearn - Machine Learning Symposium, San Francisco Bay Area
-
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
